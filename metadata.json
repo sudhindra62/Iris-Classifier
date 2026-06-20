@@ -1,0 +1,6 @@
+{
+  "name": "Iris Classifier",
+  "description": "An interactive machine learning dashboard that visualizes the Iris dataset, trains a K-Nearest Neighbors classifier, and lets you evaluate predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
